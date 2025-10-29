@@ -27,7 +27,8 @@
     "terser": "^5.44.0",
     "typescript": "~5.9.3",
     "vite": "npm:rolldown-vite@7.1.14",
-    "vitepress": "^1.6.4"
+    "vitepress": "^1.6.4",
+    "esbuild": "^0.25.11"
   },
   "overrides": {
     "vite": "npm:rolldown-vite@7.1.14"
